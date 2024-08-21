@@ -1,0 +1,78 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Optional npm cache directory
+.npm/
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache/
+.parcel-cache/
+
+# Next.js build output
+.next/
+
+# Nuxt.js build / generate output
+.nuxt/
+out/
+
+# Gatsby files
+.cache/
+# Comment in the public line in if your project uses Gatsby and not Next.js
+# public
+
+# Gridsome cache
+.cache/
+gridsome.server.js
+gridsome.config.js
+
+# Vuepress build output
+.vuepress/dist/
+
+# Temporary files
+tmp/
+temp/
+
+# System files
+Thumbs.db
+ehthumbs.db
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Compiled source
+lib/
+lib64/
+# Uncomment if using styled-components library
+# .styled-components/
