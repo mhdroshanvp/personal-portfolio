@@ -19,17 +19,58 @@ function ProjectPage() {
                         <div className="bg-[#000000] sm:w-[1000px] sm:h-[500px] w-[400px] h-[650px]   rounded-[70px] p-6">
                         <div className="sm:flex sm:justify-between xl:flex xl:justify-center items-center h-full ">
                             <div className="sm:flex-shrink-0 flex justify-center ">
-                            {/* <img src={pfImage} alt="Headline" className="w-[300px] h-[300px] rounded-[25px]" /> */}
                             <p>pic</p>
                             </div>
                             <div className="text-white flex-grow ml-6">
                             <h1 className="text-3xl font-bold mb-4">Projects</h1>
+                            <div className="font-roboto text-lg">
+      This text uses the Roboto font.
+    </div>
+    <div className="font-openSans text-sm">
+      This text uses the Open Sans font.
+    </div>
+    <div className="font-poppins text-xl">
+      This text uses the Poppins font.
+    </div>
+    <div className="font-montserrat text-base">
+      This text uses the Montserrat font.
+    </div>
+    <div className="font-lato text-lg">
+      This text uses the Lato font.
+    </div>
+    <div className="font-nunito text-md">
+      This text uses the Nunito font.
+    </div>
+    <div className="font-merriweather text-lg">
+      This text uses the Merriweather font.
+    </div>
+    <div className="font-playfair text-lg">
+      This text uses the Playfair Display font.
+    </div>
+    <div className="font-raleway text-sm">
+      This text uses the Raleway font.
+    </div>
+    <div className="font-sourceSans text-md">
+      This text uses the Source Sans Pro font.
+    </div>
+    <div className="font-ubuntu text-lg">
+      This text uses the Ubuntu font.
+    </div>
+    <div className="font-rubik text-xl">
+      This text uses the Rubik font.
+    </div>
+    <div className="font-inter text-base">
+      This text uses the Inter font.
+    </div>
+    <div className="font-arimo text-sm">
+      This text uses the Arimo font.
+    </div>
 
-                            <button className='bg-white text-black rounded-[20px] w-40 h-10 mt-5'>
+                            {/* <button className='bg-white text-black rounded-[20px] w-40 h-10 mt-5'>
                                 <Link to="/">
                                 Connecting with us
                                 </Link>
-                            </button>
+                            </button> */}
                             </div>
                         </div>
                         </div>

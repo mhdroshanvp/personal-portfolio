@@ -11,12 +11,24 @@ export default {
         'xl': '1024px', // Changed from 1280px to 1024px
         '2xl': '1280px', // Changed from 1536px to 1280px
       },
+      fontFamily: {
+        roboto: ['Roboto', 'sans-serif'],
+        openSans: ['Open Sans', 'sans-serif'],
+        lato: ['Lato', 'sans-serif'],
+        poppins: ['Poppins', 'sans-serif'],
+        montserrat: ['Montserrat', 'sans-serif'],
+        // Add more fonts if needed
+        nunito: ['Nunito', 'sans-serif'],
+        merriweather: ['Merriweather', 'serif'],
+        playfair: ['Playfair Display', 'serif'],
+        raleway: ['Raleway', 'sans-serif'],
+        sourceSans: ['Source Sans Pro', 'sans-serif'],
+        ubuntu: ['Ubuntu', 'sans-serif'],
+        rubik: ['Rubik', 'sans-serif'],
+        inter: ['Inter', 'sans-serif'],
+        arimo: ['Arimo', 'sans-serif'],
+      },
     },
-    fontFamily: {
-      jersey: ['Jersey 10', 'sans-serif']
-    }
-
   },
   plugins: [],
 }
-
